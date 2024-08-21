@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL = "tunaai.github.io/"
+baseURL = "https://tuna-ai.github.io"
 # Title of your website (required).
 title = "TunaAI"
 # Your theme name
