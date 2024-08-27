@@ -1,6 +1,12 @@
 ################ English language ##################
 [en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
+
+[pt-BR]
+languageName = 'Português'
+languageCode = 'pt-BR'
+contentDir = "content/portugues"
+weight = 0

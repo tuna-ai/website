@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "How to use Tuna AI"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
-author: "John Doe"
-tags: ["silicon", "technology"]
+categories: ["Tutorial"]
+author: "Vinicius C Vaz"
+tags: ["crewai", "ai"]
 draft: false
 ---
 

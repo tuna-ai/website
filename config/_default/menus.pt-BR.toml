@@ -1,9 +1,9 @@
-############# English navigation ##############
+############# Portuguese navigation ##############
 
 # main menu
 [[main]]
-name = "Home"
-pageRef = "/"
+name = "Início"
+pageRef = "/pt-br/"
 weight = 1
 
 [[main]]
@@ -12,17 +12,17 @@ pageRef = "/blog/"
 weight = 2
 
 [[main]]
-name = "Authors"
+name = "Autores"
 pageRef = "/authors/"
 weight = 3
 
 # footer menu
 [[footer]]
-name = "Privacy Policy"
+name = "Política de privacidade"
 pageRef = "/privacy-policy/"
 weight = 1
 
 [[footer]]
-name = "Authors"
+name = "Autores"
 pageRef = "/authors/"
 weight = 2
